@@ -7,3 +7,5 @@ streamlit.text('Hello world')
 streamlit.text('Bacon & eggs') 
 streamlit.text('pancakes')
 streamlit.text('🥣 🥗 🐔 🥑🍞')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
